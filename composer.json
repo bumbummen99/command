@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/command",
+    "name": "skyraptor/command",
     "description": "Provides the foundation for building command-based web service clients",
     "license": "MIT",
     "authors": [
